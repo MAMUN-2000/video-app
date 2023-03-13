@@ -1,0 +1,11 @@
+{
+	"css.validate": false,
+	"workbench.colorTheme": "Learn with Sumit - Peace of the eye - Dracula version",
+	"workbench.iconTheme": "material-icon-theme",
+	"workbench.preferredDarkColorTheme": "Learn with Sumit - Peace of the eye - Dracula version",
+	"workbench.preferredHighContrastColorTheme": "Learn with Sumit - Peace of the eye - Dracula version",
+	"workbench.preferredLightColorTheme": "Learn with Sumit Theme - Dracula version",
+	"react-native-tools.networkInspector.consoleLogsColorTheme": "Dark",
+	"material-icon-theme.activeIconPack": "react_redux",
+	"material-icon-theme.hidesExplorerArrows": false
+}
